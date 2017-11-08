@@ -9,7 +9,7 @@ This project is part of [Udacity](https://www.udacity.com "Udacity - Be in deman
 
 ## Screenshots
 ![Alt text](/Screenshot_TheBeginning.png?raw=true "It Begins")
-![Alt text](/Screenshot_Overview.png?raw=true "Birds eye, erm, spacecrafts eye view")
+![Alt text](/Screenshot_Overview.PNG?raw=true "Birds eye, erm, spacecrafts eye view")
 
 ## Versions
 - Unity 2017.1.0p4
