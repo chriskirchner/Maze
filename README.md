@@ -1,9 +1,9 @@
-# vrnd-maze
+# VR Maze
 ### just another exploding planet maze...
 
 An Udacity's Virtual Reality Nanodegree Project
 
-# A Maze Starter Project
+## A Maze Starter Project
 
 This project is part of [Udacity](https://www.udacity.com "Udacity - Be in demand")'s [VR Developer Nanodegree](https://www.udacity.com/course/vr-developer-nanodegree--nd017).
 
